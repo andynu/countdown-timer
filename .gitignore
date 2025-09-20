@@ -19,6 +19,9 @@ src-tauri/WixTools/
 *~
 .DS_Store
 
+# Claude configuration (personal)
+.claude/
+
 # Build outputs
 dist/
 build/
